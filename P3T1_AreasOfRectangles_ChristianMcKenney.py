@@ -17,7 +17,7 @@ area1 = l1 * w1
 area2 = l2 * w2
 
 # Determine which has the greater area
-if area > area2:
+if area1 > area2:
     print('Rectangle 1 has the greater area.')
 elif area2 > area1:
     print('Rectangle 2 has the greater area.')
